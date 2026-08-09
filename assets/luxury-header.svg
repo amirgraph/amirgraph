@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="560" viewBox="0 0 1200 560" role="img" aria-labelledby="title desc">
+  <title id="title">AMIRGRAPH</title><desc id="desc">Digital Craftsman and Software Architect</desc>
+  <defs>
+    <radialGradient id="bg" cx="50%" cy="38%"><stop stop-color="#231016"/><stop offset=".48" stop-color="#100A0B"/><stop offset="1" stop-color="#080808"/></radialGradient>
+    <linearGradient id="gold" x1="0" x2="1"><stop stop-color="#765525"/><stop offset=".35" stop-color="#E3C98F"/><stop offset=".7" stop-color="#B88A3C"/><stop offset="1" stop-color="#5E421B"/></linearGradient>
+    <pattern id="grain" width="11" height="11" patternUnits="userSpaceOnUse"><circle cx="2" cy="4" r=".45" fill="#F2EBDD" opacity=".06"/><circle cx="8" cy="9" r=".35" fill="#F2EBDD" opacity=".04"/></pattern>
+  </defs>
+  <rect width="1200" height="560" fill="url(#bg)"/><rect width="1200" height="560" fill="url(#grain)"/>
+  <rect x="25" y="25" width="1150" height="510" fill="none" stroke="#C6A15B" opacity=".5"/><rect x="34" y="34" width="1132" height="492" fill="none" stroke="#C6A15B" stroke-width=".5" opacity=".25"/>
+  <g transform="translate(522 54)" fill="none" stroke="url(#gold)">
+    <circle cx="78" cy="78" r="66"/><circle cx="78" cy="78" r="58" stroke-width=".5" opacity=".6"/>
+    <path d="M78 0v20M78 136v20M0 78h20M136 78h20"/>
+    <path d="m43 108 22-59 13 40 13-40 22 59M51 86h54" stroke-width="4.5"/>
+  </g>
+  <text x="600" y="292" fill="#F2EBDD" font-family="Georgia, 'Times New Roman', serif" font-size="62" letter-spacing="18" text-anchor="middle">AMIRGRAPH</text>
+  <path d="M330 326h540" stroke="url(#gold)" opacity=".7"/>
+  <text x="600" y="370" fill="#C6A15B" font-family="Georgia, serif" font-size="16" letter-spacing="6" text-anchor="middle">DIGITAL CRAFTSMAN · SOFTWARE ARCHITECT</text>
+  <text x="600" y="427" fill="#D8D0C2" font-family="Georgia, serif" font-size="17" font-style="italic" text-anchor="middle">Building refined digital systems through precision, creativity,</text>
+  <text x="600" y="453" fill="#D8D0C2" font-family="Georgia, serif" font-size="17" font-style="italic" text-anchor="middle">and engineering discipline.</text>
+  <g fill="#173C32"><circle cx="73" cy="73" r="3"/><circle cx="1127" cy="73" r="3"/><circle cx="73" cy="487" r="3"/><circle cx="1127" cy="487" r="3"/></g>
+</svg>

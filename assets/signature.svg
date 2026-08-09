@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="220" viewBox="0 0 720 220" role="img" aria-labelledby="title">
+  <title id="title">AMIRGRAPH — Digital Craftsmanship</title>
+  <path d="M201 111c39-51 58-66 68-54 11 12-17 77-3 77 18 0 45-78 57-78 13 0 1 78 17 78 14 0 32-36 48-72-3 34-5 72 12 72 14 0 30-25 42-48" fill="none" stroke="#C6A15B" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M175 151c105 8 257 7 370-5" fill="none" stroke="#6E1730" stroke-width="1.5" opacity=".8"/>
+  <text x="360" y="188" fill="#F2EBDD" font-family="Georgia, serif" font-size="18" letter-spacing="8" text-anchor="middle">AMIRGRAPH</text>
+  <text x="360" y="211" fill="#C6A15B" font-family="Georgia, serif" font-size="10" letter-spacing="5" text-anchor="middle">DIGITAL CRAFTSMANSHIP</text>
+</svg>
