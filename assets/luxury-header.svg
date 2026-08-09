@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="520" viewBox="0 0 1400 520" role="img" aria-labelledby="t d">
+  <title id="t">AMIRGRAPH</title><desc id="d">Software Architect and Digital Craftsman</desc>
+  <defs>
+    <radialGradient id="r" cx="50%" cy="34%"><stop stop-color="#32141E"/><stop offset=".42" stop-color="#140B0E"/><stop offset="1" stop-color="#070707"/></radialGradient>
+    <linearGradient id="g"><stop stop-color="#7B5425"/><stop offset=".45" stop-color="#E6C98A"/><stop offset=".7" stop-color="#BC8A46"/><stop offset="1" stop-color="#684318"/></linearGradient>
+    <pattern id="p" width="24" height="24" patternUnits="userSpaceOnUse"><path d="M0 24 24 0" stroke="#FFF" stroke-width=".35" opacity=".025"/></pattern>
+  </defs>
+  <rect width="1400" height="520" rx="8" fill="url(#r)"/><rect width="1400" height="520" rx="8" fill="url(#p)"/>
+  <path d="M36 36h1328v448H36z" fill="none" stroke="#C49A58" opacity=".42"/><path d="M47 47h1306v426H47z" fill="none" stroke="#C49A58" stroke-width=".5" opacity=".25"/>
+  <g fill="none" stroke="#C49A58" opacity=".3"><circle cx="700" cy="88" r="36"/><circle cx="700" cy="88" r="27"/><path d="M648 88h104M700 36v104"/></g>
+  <path d="M672 88h56M700 60v56" stroke="url(#g)"/>
+  <text x="700" y="242" text-anchor="middle" fill="#F6EFE3" font-family="Georgia,serif" font-size="78" letter-spacing="24">AMIRGRAPH</text>
+  <path d="M380 282h640" stroke="url(#g)"/>
+  <text x="700" y="330" text-anchor="middle" fill="#D8B56B" font-family="Georgia,serif" font-size="15" letter-spacing="8">SOFTWARE ARCHITECT · DIGITAL CRAFTSMAN</text>
+  <text x="700" y="395" text-anchor="middle" fill="#D7CEC2" font-family="Georgia,serif" font-size="18" font-style="italic">Architecture with discipline. Engineering with taste.</text>
+  <g fill="#24493C"><circle cx="61" cy="61" r="3"/><circle cx="1339" cy="61" r="3"/><circle cx="61" cy="459" r="3"/><circle cx="1339" cy="459" r="3"/></g>
+</svg>
